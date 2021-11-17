@@ -7,6 +7,12 @@
 Sas2k/Sas2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Badges
+
+![GitHub followers](https://img.shields.io/github/followers/Sas2k?style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/Sas2k?style=social)
+
 ------
 Hmm...<br>
 What can i write in this section?

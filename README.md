@@ -17,5 +17,8 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+### 💭 [Random xkcd comic](https://github.com/Sas2k/random-xkcder)
+<img src="https://random-xkcder.herokuapp.com" title="xkcd" alt="Please Refresh if the comic isn't show">
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Sas2k&icon=2&color=1)](https://visitcount.itsvg.in)

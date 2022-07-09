@@ -22,4 +22,4 @@
 <img src="https://random-xkcder.herokuapp.com" title="xkcd" alt="Please Refresh if the comic isn't show">
 
 ---
-![![](https://visitcount.itsvg.in/api?id=Sas2k&icon=2&color=1)](https://visitcount.itsvg.in)
+[![Visit-Count](https://visitcount.itsvg.in/api?id=Sas2k&icon=2&color=1)](https://visitcount.itsvg.in)

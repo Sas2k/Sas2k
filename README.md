@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌏 Hi, I'm @Sas2k. A programmer who is fluent in python.<br>🌵 I live in Sri Lanka.<br>♟ I am also a chess player.<br>🏫 I currently learn at Thurstan College.
+🌏 Hi, I'm @Sas2k. A programmer who is fluent in python.<br>🌵 I live in Sri Lanka.<br>♟ I am also a chess player.<br>🏫 I currently learn at Thurstan College.<br> Today is <span id="Date"></span>
 
 
 ## 🌐 Socials:
@@ -23,3 +23,10 @@
 
 ---
 [![Visit-Count](https://visitcount.itsvg.in/api?id=Sas2k&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
+<script>
+date = new Date();
+var today = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+document.getElementById("Date").innerText = today;
+</script>

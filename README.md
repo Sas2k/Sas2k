@@ -15,6 +15,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sas2k&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sas2k&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📌 Holopin Badges:
+
+[![@sas2k's Holopin board](https://holopin.io/api/user/board?user=sas2k)](https://holopin.io/@sas2k)
+
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 

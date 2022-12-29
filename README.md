@@ -31,4 +31,4 @@
 <img src="https://random-xkcder.vercel.app/" title="xkcd" alt="Please Refresh if the comic isn't showing up">
 
 ---
-[![Visit-Count](https://visitcount.itsvg.in/api?id=Sas2k&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sas2k&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)

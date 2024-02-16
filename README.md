@@ -26,11 +26,8 @@
 
 [![@sas2k's Holopin board](https://holopin.io/api/user/board?user=sas2k)](https://holopin.io/@sas2k)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ### 💭 [Random xkcd comic](https://github.com/Sas2k/random-xkcder)
-<img src="https://random-xkcder.vercel.app/" title="xkcd" alt="Please Refresh if the comic isn't showing up">
+<img src="https://random-xkcder.vercel.app/" title="xkcd" alt="Please Refresh if the comic isn't showing up ~https://github.com/Sas2k/random-xkcder">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sas2k&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)

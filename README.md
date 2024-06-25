@@ -3,8 +3,7 @@
 ![Mario-Desktop-chill](https://user-images.githubusercontent.com/91795267/202699666-ae0a7764-b7ef-4375-bd7e-0fad7b35fb65.gif)
 
 ## 💫 About Me:
-🌏 Hi, I'm [@Sas2k](https://github.com/Sas2k). A programmer who is fluent in python.<br>🌵 I live in Sri Lanka.<br>🎻 I'm a violinist<br>🏫 I currently learn at Thurstan College.<br>
-
+🌏 Hi, I'm [@Sas2k](https://github.com/Sas2k). A programmer who is fluent in python.<br>🌵 I live in Sri Lanka.<br>🎻 I'm a violinist<br>🏫 I currently learn at Thurstan College.<br> and a top 10 finalist in Python Discord's 2022 Code Jam
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/897042859851665438) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sasenp) 
